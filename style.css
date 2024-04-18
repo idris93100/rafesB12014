@@ -1,0 +1,21 @@
+.quiz-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.quiz-section {
+    width: 48%; 
+    padding: 20px;
+    border: 1px solid #3814a4;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.start-button {
+    background-color: #0074D9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
